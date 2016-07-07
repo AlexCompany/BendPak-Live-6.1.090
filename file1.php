@@ -6,4 +6,7 @@ echo "Version 3.0!";
 echo "Version 4.0!";
 echo "Version 5.0!";
 
+echo "Version 6.0!";
+echo "Version 7.0!";
+
 ?>
